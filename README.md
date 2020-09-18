@@ -1,4 +1,4 @@
-# Remedios-et-al-Nature-2017
+# Remedios et al Nature 2017
 Code used for data analysis in the Nature paper
 
 VMHvl_imaging
