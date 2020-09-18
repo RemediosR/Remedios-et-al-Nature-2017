@@ -13,3 +13,6 @@ All code is written for data that has been loaded into a standard experiment str
 
 A part of this code is also publicly hosted at:
 https://github.com/DJALab/VMHvl_imaging.git
+
+Data collection, preprocessing: Ryan Remedios
+GUI: Ann Kennedy
