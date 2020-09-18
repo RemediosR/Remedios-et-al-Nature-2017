@@ -11,6 +11,5 @@ For general questions about the paper, contact wuwei AT caltech DOT edu.
 Contents
 All code is written for data that has been loaded into a standard experiment structure expt (see data_builder for details.)
 
-
-
+A part of this code is also publicly hosted at:
 https://github.com/DJALab/VMHvl_imaging.git
