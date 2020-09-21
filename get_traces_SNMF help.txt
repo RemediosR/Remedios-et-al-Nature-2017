@@ -1,0 +1,7 @@
+For extracting traces from .h5 videos.
+
+Will take IC peak X,Y locations. Then opens corresponding h5 video and using peak +-2 pixels along each axis creates an ROI that extracts the average calcium trace.
+
+
+
+USE IC_roi_traces INSTEAD!!!

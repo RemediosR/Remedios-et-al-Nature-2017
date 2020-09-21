@@ -1,0 +1,3 @@
+Creates spatial maps of ICs by plotting only select ICs saved as a list.
+
+Should also save X,Y locations of IC peaks that can be used for creating circle or hex maps.

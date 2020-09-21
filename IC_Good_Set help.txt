@@ -1,0 +1,7 @@
+this script takes the .mat file xxxx_ICFilters that contains all hte IC and takes only the neurons into a new file. The neuron identity is contained in a manually annotated IC.xlsx file.
+
+1. run the script.
+2. this opens a explorer dialogue so navigate to the .mat _ICFilters file
+3. then another window opens up and this time load the .xlsx file
+
+This saves a new .mat file with suffix _GoodICs.

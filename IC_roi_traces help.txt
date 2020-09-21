@@ -1,0 +1,13 @@
+Extracts traces by drawing ROIs on the HDF5 data file
+
+requires:
+1) ICFilters.mat,  
+2) .h5 file
+
+
+NOTE: Requires that XY dimensions of the .mat and .h5 files are identical.
+
+
+saves output .mat files of:
+1) save(roi_traces_file,'roiTraces');
+2) save(roi_position_file,'roiPositions');
